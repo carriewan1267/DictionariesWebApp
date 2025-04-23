@@ -24,6 +24,9 @@ Responsive, Clean UI
 Looks good on mobile and desktop, with a centered card layout and easily readable fonts.
 Tech: HTML5 + CSS 
 
+
+Timeline: Done, (but maybe want to improve)
+
 <img width="711" alt="Screen Shot 2025-04-22 at 19 54 46" src="https://github.com/user-attachments/assets/26fd0ab0-596f-47d1-adf1-a11d8acc611d" />
 <img width="939" alt="Screen Shot 2025-04-22 at 19 55 36" src="https://github.com/user-attachments/assets/b13e19a8-0d42-48e1-8313-b5275807258b" />
 <img width="715" alt="Screen Shot 2025-04-22 at 19 55 58" src="https://github.com/user-attachments/assets/34d8b177-4009-46c4-9388-54ff46dbfc9b" />
